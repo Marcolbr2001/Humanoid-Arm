@@ -11,7 +11,7 @@
 
 ## Inside the Arm
 
-<pos>
+<pre>
   
 - Used Materials
 - 3D Printed Case
@@ -20,7 +20,7 @@
 - x1 TouchPad
 - x2 3.3V Li Batteries
   
-</pos>
+</pre>
 
 
 

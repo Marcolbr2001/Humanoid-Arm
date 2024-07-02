@@ -11,9 +11,10 @@
 
 ## Inside the Arm
 
+**Used Materials**
+
 <pre>
   
-**Used Materials**
 - 3D Printed Case
 - x8 servomotors
 - x1 Arduin MEGA

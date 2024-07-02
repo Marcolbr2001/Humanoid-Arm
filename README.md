@@ -1,6 +1,6 @@
 # Humanoid-Arm
 
-<it> _The humanoid arm is one of the most relevant projects. It is realised with a 3D printer and the help of 8 servomotors controlled by one Arduino Mega board and other electronics._ </it>
+<it> _The humanoid arm is realised with a 3D printer and the help of 8 servomotors controlled by one Arduino Mega board and other electronics._ </it>
 
 <div align="center">
 

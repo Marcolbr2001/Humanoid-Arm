@@ -1,10 +1,14 @@
 # Humanoid-Arm
 
-<it> The humanoid arm is one of the most relevant projects. It is realised with a 3D printer and the help of 8 servomotors controlled by one Arduino Mega board and other electronics. </it>
+<it> The humanoid ar
+
+
+m is one of the most relevant projects. It is realised with a 3D printer and the help of 8 servomotors controlled by one Arduino Mega board and other electronics. </it>
 
 <div align="center">
 
-https://github.com/Marcolbr2001/6502_Computer/assets/66978947/5fb89dd2-7d88-45e0-95bd-d183eab47c54
+[https://github.com/Marcolbr2001/6502_Computer/assets/66978947/5fb89dd2-7d88-45e0-95bd-d183eab47c54](https://github.com/Marcolbr2001/Humanoid-Arm/assets/66978947/865c951f-4a17-40af-a558-76ea20866bf0
+)
 
 </div>
 

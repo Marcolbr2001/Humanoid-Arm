@@ -1,5 +1,7 @@
 # Humanoid-Arm
 
+🦾🤖 Humanoid Arm Robotic Manipulator: A fully custom robotic arm designed to mimic human-like motion through joints control. This project explores the complete stack of robotic manipulation: mechanical design, actuation, real-time control, and motion.
+
 <it> _The humanoid arm is realised with a 3D printer and the help of 8 servomotors controlled by one Arduino Mega board and other electronics._ </it>
 
 <div align="center">

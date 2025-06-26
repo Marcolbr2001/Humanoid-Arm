@@ -37,6 +37,9 @@ For the movement of the hand and fingers are 6 small servomotors were used (1 fo
 
 The movement of the elbow and shoulder is made possible by 2 other servomotors, this time with a torque of 20 kg/cm.
 
+Handgrips
+![Fascia antiscivolo](https://github.com/user-attachments/assets/43a96df0-59aa-46a6-a1d6-86091e2287c3)
+
 ## Code
 Motion commands have been given, such as you can see at the end of the video, through two simple Arduino boards One that only later will be replaced by a single card. The code is quite simple, it is in fact only a precise sequence of actions: shoulder rotation, elbow rotation, hand opening, hand closure, wrist rotation.
 
